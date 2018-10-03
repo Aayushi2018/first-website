@@ -1,0 +1,12 @@
+@media only screen and (min-width: 1200px)
+{
+  h1 {
+    color:Green;
+    font-size:50px;
+    text-align:center;
+  }
+}
+.a
+{
+  color:pink;
+}
